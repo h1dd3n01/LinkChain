@@ -9,7 +9,7 @@ Creates a visually representational chained link between a specific website by c
 
 `url` is the url you want to crawl.
 
-`links` is the number of links you want to crawl, defaults to 100 if left empty.By empty i mean you don't input `-a links=''`
+`links` is the number of links you want to crawl, defaults to 100 if left empty. By empty i mean you don't input `-a links=''`
 
 
 `unix4.gv.png` is example result from `json.data` file, scraped **10000** links starting from `https://www.laptopoutlet.co.uk` url
