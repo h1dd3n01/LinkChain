@@ -24,8 +24,8 @@ Delete the `json`files, rename them or change the output filename in `pipelines.
 
 You need to specify your proxy filepath in the settings.
 In case you don't have them, you can take a look at my other spider https://github.com/h1dd3n01/Proxy_Bot
-**OR** Uncomment `PROXY_LIST = '/home/h1dd3n/Desktop/prox-2.txt'`in `settings.py`.
-Also uncomment 
+**OR** comment out `PROXY_LIST = '/home/h1dd3n/Desktop/prox-2.txt'`in `settings.py`.
+Also comment out 
 
 `
 
@@ -36,4 +36,4 @@ Also uncomment
     'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 310,
 `
 
-in `DOWNLOADER_MIDDLEWARES` and uncomment `RETRY_HTTP_CODES and PROXY_MODE = 0`
+in `DOWNLOADER_MIDDLEWARES` and comment out `RETRY_HTTP_CODES` and `PROXY_MODE`
