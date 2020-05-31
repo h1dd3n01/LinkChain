@@ -42,8 +42,8 @@ class Spider(CrawlSpider):
                 print('-' * 20)
                 return
 
-    def parse_link(self, inputLink):
-        link = unquote(inputLink)
+    def parse_link(self, input_link):
+        link = unquote(input_link)
         if link.startswith('https://'):
             link = link.split('//')[1]
         if link.startswith('http://'):
