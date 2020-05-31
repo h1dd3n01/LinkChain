@@ -20,3 +20,20 @@ Creates a visually representational chained link between a specific website by c
 Data is stored into a `json` file since, if there will be url's with length > 40-50, the render will crash. In case it does, you can always go to the `json` file and remove that long link manually.
 
 Delete the `json`files, rename them or change the output filename in `pipelines.py` , otherwise you'll probably get a `TypeError`
+
+
+You need to specify your proxy filepath in the settings.
+In case you don't have them, you can take a look at my other spider https://github.com/h1dd3n01/Proxy_Bot
+**OR** Uncomment `PROXY_LIST = '/home/h1dd3n/Desktop/prox-2.txt'`in `settings.py`.
+Also uncomment 
+
+`
+
+    'scrapy.downloadermiddlewares.retry.RetryMiddleware': 290,
+     
+    'scrapy_proxies.RandomProxy': 300,
+    
+    'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 310,
+`
+
+in `DOWNLOADER_MIDDLEWARES` and uncomment `RETRY_HTTP_CODES and PROXY_MODE = 0`
