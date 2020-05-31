@@ -21,17 +21,12 @@ class LinkextractorPipeline:
         return item
 
     def close_spider(self, spider):
-        spider.link_set = {v['found']: v for v in spider.link_set}.values()
-        d = {'data': []}
-        for i in spider.link_set:
-            d['data'].append(i)
-
-        with open('data.json', 'a+') as f:
-            f.write(json.dumps(d))
+        d = {'data': {v['found']: v for v in spider.link_set}.values()}
+        with open('data3.json', 'a+') as f:
+            f.write(json.dumps(list(d['data'])))
             f.close()
         for i in d['data']:
             head = i['original']
             tail = i['found']
             self.graph.edge(head, tail)
-
         self.graph.view()

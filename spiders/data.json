@@ -1,1 +1,160 @@
-{"data": [{"original": "swappa.com/", "found": "www.wsj.com"}, {"original": "swappa.com/", "found": "www.nytimes.com"}, {"original": "swappa.com/", "found": "fortune.com"}, {"original": "swappa.com/", "found": "www.tomsguide.com"}, {"original": "swappa.com/", "found": "lifehacker.com"}, {"original": "swappa.com/", "found": "www.cnet.com"}, {"original": "swappa.com/buy/apple-iphone-11-pro-max", "found": "www.facebook.com/Swappa/"}, {"original": "swappa.com/buy/apple-iphone-xs", "found": "twitter.com/swappa"}, {"original": "swappa.com/buy/apple-iphone-xs", "found": "www.instagram.com/swappa/"}, {"original": "swappa.com/buy/apple-iphone-xs", "found": "www.youtube.com"}, {"original": "swappa.com/buy/apple-iphone-xs", "found": "www.pinterest.com/Swappa/"}, {"original": "swappa.com/buy/apple-iphone-xs", "found": "www.linkedin.com/company/swappa"}, {"original": "www.cnet.com", "found": "coupons.cnet.com/?ref=cnet.com"}, {"original": "www.cnet.com", "found": "coupons.cnet.com"}, {"original": "www.cnet.com", "found": "coupons.cnet.com/coupons/hp?ref=cnet.com"}, {"original": "www.cnet.com", "found": "download.cnet.com"}, {"original": "www.cnet.com", "found": "www.cnetnews.com.cn/"}, {"original": "www.cnet.com", "found": "www.cnetfrance.fr/"}, {"original": "www.cnet.com", "found": "www.cnet.de/"}, {"original": "www.cnet.com", "found": "japan.cnet.com/"}, {"original": "www.cnet.com", "found": "www.cnet.co.kr/"}, {"original": "www.cnet.com", "found": "www.twitter.com/MrCippy"}, {"original": "www.cnet.com", "found": "swappa.com/"}, {"original": "www.cnet.com", "found": "play.google.com"}, {"original": "www.cnet.com", "found": "www.cbsinteractive.com/careers"}, {"original": "www.cnet.com", "found": "cbsi.secure.force.com"}, {"original": "www.cnet.com", "found": "olt.theygsgroup.com/cnet/front-page"}, {"original": "www.cnet.com", "found": "legalterms.cbsinteractive.com/privacy"}, {"original": "www.cnet.com", "found": "legalterms.cbsinteractive.com"}, {"original": "www.cnet.com", "found": "legalterms.cbsinteractive.com/eula"}, {"original": "www.cnet.com", "found": "legalterms.cbsinteractive.com/adchoice"}, {"original": "www.cnet.com", "found": "ca.privacy.cbs"}, {"original": "www.cnet.com", "found": "ca.privacy.cbs/donotsell"}, {"original": "www.cnet.com", "found": "cnet.app.link/5qpsBa8M71"}, {"original": "www.cnet.com", "found": "www.facebook.com/cnet"}, {"original": "www.cnet.com", "found": "twitter.com/CNET"}, {"original": "www.cnet.com", "found": "www.youtube.com/user/CNETTV/"}, {"original": "www.cnet.com", "found": "www.instagram.com/cnet/"}, {"original": "www.cnet.com", "found": "flipboard.com/@cnet/"}]}
+{
+  "data": [
+    {
+      "original": "swappa.com/",
+      "found": "www.wsj.com"
+    },
+    {
+      "original": "swappa.com/",
+      "found": "www.nytimes.com"
+    },
+    {
+      "original": "swappa.com/",
+      "found": "fortune.com"
+    },
+    {
+      "original": "swappa.com/",
+      "found": "www.tomsguide.com"
+    },
+    {
+      "original": "swappa.com/",
+      "found": "lifehacker.com"
+    },
+    {
+      "original": "swappa.com/",
+      "found": "www.cnet.com"
+    },
+    {
+      "original": "swappa.com/buy/apple-iphone-11-pro-max",
+      "found": "www.facebook.com/Swappa/"
+    },
+    {
+      "original": "swappa.com/buy/apple-iphone-xs",
+      "found": "twitter.com/swappa"
+    },
+    {
+      "original": "swappa.com/buy/apple-iphone-xs",
+      "found": "www.instagram.com/swappa/"
+    },
+    {
+      "original": "swappa.com/buy/apple-iphone-xs",
+      "found": "www.youtube.com"
+    },
+    {
+      "original": "swappa.com/buy/apple-iphone-xs",
+      "found": "www.pinterest.com/Swappa/"
+    },
+    {
+      "original": "swappa.com/buy/apple-iphone-xs",
+      "found": "www.linkedin.com/company/swappa"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "coupons.cnet.com/?ref=cnet.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "coupons.cnet.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "coupons.cnet.com/coupons/hp?ref=cnet.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "download.cnet.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.cnetnews.com.cn/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.cnetfrance.fr/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.cnet.de/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "japan.cnet.com/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.cnet.co.kr/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.twitter.com/MrCippy"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "swappa.com/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "play.google.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.cbsinteractive.com/careers"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "cbsi.secure.force.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "olt.theygsgroup.com/cnet/front-page"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "legalterms.cbsinteractive.com/privacy"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "legalterms.cbsinteractive.com"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "legalterms.cbsinteractive.com/eula"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "legalterms.cbsinteractive.com/adchoice"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "ca.privacy.cbs"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "ca.privacy.cbs/donotsell"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "cnet.app.link/5qpsBa8M71"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.facebook.com/cnet"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "twitter.com/CNET"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.youtube.com/user/CNETTV/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "www.instagram.com/cnet/"
+    },
+    {
+      "original": "www.cnet.com",
+      "found": "flipboard.com/@cnet/"
+    }
+  ]
+}

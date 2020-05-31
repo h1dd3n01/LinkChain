@@ -4,4 +4,15 @@ digraph {
 	size=100
 	overlap=false
 	fontsize=150
+	"www.laptopoutlet.co.uk" -> "www.cloudflare.com"
+	"www.laptopoutlet.co.uk" -> "support.cloudflare.com"
+	"www.laptopoutlet.co.uk" -> "www.laptopoutletblog.co.uk/"
+	"www.laptopoutlet.co.uk" -> "www.facebook.com/LaptopOutlet.co.uk"
+	"www.laptopoutlet.co.uk" -> "twitter.com/laptopoutletltd"
+	"www.laptopoutlet.co.uk" -> "instagram.com/laptopoutlet/"
+	"www.laptopoutlet.co.uk" -> "www.pinterest.com/laptopoutlet/"
+	"www.laptopoutlet.co.uk" -> "mark.reevoo.com"
+	"www.laptopoutlet.co.uk" -> "www.youtube.com/user/TheLaptopOutlet"
+	"www.laptopoutlet.co.uk" -> "www.paypal.com"
+	"www.laptopoutlet.co.uk" -> "uk.trustpilot.com"
 }

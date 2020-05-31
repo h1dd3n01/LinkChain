@@ -29,9 +29,9 @@ class Spider(CrawlSpider):
             # self.rules
             raise CloseSpider("DONE")
         s_link = self.parse_link(response.url)
-        deny_url = s_link.split('/')[0]
+        deny_url = response.url.split('//')[1].split('/')[0]
         for link in LxmlLinkExtractor(allow=(), deny=deny_url).extract_links(response):
-            link = self.parse_link(link)
+            link = self.parse_link(link.url)
             item = {'original': s_link,
                     'found': link}
             self.link_set.append(item)
