@@ -46,7 +46,7 @@ DEFAULT_REQUEST_HEADERS = {
               'application/signed-exchange;v=b3',
     'Sec-Fetch-Site': 'same-origin',
     'Sec-Fetch-Mode': 'navigate',
-    # 'Accept-Encoding': 'gzip, deflate, br',
+    'Accept-Encoding': 'gzip, deflate, br',
     'Accept-Language': 'en-US,en;q=0.9',
 }
 
