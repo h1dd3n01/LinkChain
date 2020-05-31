@@ -24,7 +24,7 @@ Delete the `json`files, rename them or change the output filename in `pipelines.
 
 You need to specify your proxy filepath in the settings.
 In case you don't have them, you can take a look at my other spider https://github.com/h1dd3n01/Proxy_Bot
-**OR** comment out `PROXY_LIST = '/home/h1dd3n/Desktop/prox-2.txt'`in `settings.py`.
+**OR** comment out `PROXY_LIST'`in `settings.py`.
 Also comment out 
 
 `
