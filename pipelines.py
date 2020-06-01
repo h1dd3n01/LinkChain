@@ -1,6 +1,5 @@
-import graphviz
-import random
 import json
+import graphviz
 
 
 class LinkextractorPipeline:
@@ -15,7 +14,6 @@ class LinkextractorPipeline:
         self.graph.attr(size='100')
         self.graph.attr(overlap='false')
         self.graph.attr(fontsize='150')
-        self.set = []
 
     def process_item(self, item, spider):
         return item

@@ -26,7 +26,6 @@ class Spider(CrawlSpider):
     def parse_data(self, response):
         if self.counter >= int(self.links):
             print('-' * 20)
-            # self.rules
             raise CloseSpider("DONE")
         s_link = self.parse_link(response.url)
         deny_url = response.url.split('//')[1].split('/')[0]
