@@ -20,6 +20,8 @@ class Spider(CrawlSpider):
         self.link_set = list()
         if url is None:
             raise TypeError('\n[-] Please provide a default url by running \n'
+                            '       |\n'
+                            '       v\n'
                             '[-] scrapy crawl hun73r -a url="https://someurl.com"')
         super(Spider, self).__init__()
 
