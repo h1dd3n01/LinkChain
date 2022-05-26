@@ -46,7 +46,7 @@ scrapy-proxies==0.4
 service-identity==18.1.0
 six==1.15.0
 traitlets==4.3.3
-Twisted==20.3.0
+Twisted==22.4.0
 w3lib==1.22.0
 wcwidth==0.1.9
 zope.interface==5.1.0
